@@ -3,7 +3,7 @@
   ## ![screenshot](text-editor-screenshot.png) 
   ## ![screenshot 2](text-editor-2.png)
 
-  
+  [Click here to see the deployed app.](https://text-editor-march-2022.herokuapp.com/)
 
 
   ## Licensing:
